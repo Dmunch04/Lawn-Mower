@@ -46,23 +46,28 @@ B:/Program Files/Unity 2017.2.0b11/Editor/Data/Managed/UnityEngine/UnityEngine.T
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
-B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
-B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
-B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll
+B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
+B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
+C:/Users/Daniel/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@0.0.16/UnityEngine.Advertisements.dll
+C:/Users/Daniel/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@0.0.17/UnityEngine.Analytics.dll
+C:/Users/Daniel/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.18/UnityEngine.Purchasing.dll
+B:/Program Files/Unity 2017.2.0b11/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+B:/Program Files/Unity 2017.2.0b11/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
+B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
-B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UIAutomation/Editor/UnityEditor.UIAutomation.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll
-B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll
-B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll
-B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/Managed/UnityEditor.Graphs.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
@@ -72,11 +77,6 @@ B:/Program Files/Unity 2017.2.0b11/Editor/Data/PlaybackEngines/LinuxStandaloneSu
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
 B:/Program Files/Unity 2017.2.0b11/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
-C:/Users/Daniel/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@0.0.16/UnityEngine.Advertisements.dll
 C:/Users/Daniel/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@0.0.16/Editor/UnityEditor.Advertisements.dll
-C:/Users/Daniel/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@0.0.17/UnityEngine.Analytics.dll
 C:/Users/Daniel/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@0.0.17/Editor/UnityEditor.Analytics.dll
-C:/Users/Daniel/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.18/UnityEngine.Purchasing.dll
 C:/Users/Daniel/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.18/Editor/UnityEditor.Purchasing.dll
-B:/Program Files/Unity 2017.2.0b11/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
-B:/Program Files/Unity 2017.2.0b11/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
